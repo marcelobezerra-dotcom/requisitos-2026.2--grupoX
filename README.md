@@ -6,3 +6,4 @@ requisitos-2026.2--grupoX
 
 | marcelo | bezerra |
 |---------|---------|
+|teste1   | teste2  |
