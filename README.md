@@ -2,7 +2,7 @@
 ## identa2
 requisitos-2026.2--grupoX
 
-**mbacefor-ProfBezerra**
+**mbacefor-Prof.Bezerra**
 
 | marcelo | bezerra |
 |---------|---------|
